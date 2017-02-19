@@ -1,6 +1,6 @@
 {
-  "name": "gitbook-plugin-theme-default",
-  "description": "Default theme for GitBook",
+  "name": "@maxkoryukov/gitbook-plugin-theme-default",
+  "description": "Default theme for GitBook (with customizations)",
   "main": "./index.js",
   "version": "1.0.6",
   "engines": {
@@ -27,7 +27,7 @@
     "type": "git",
     "url": "https://github.com/GitbookIO/theme-default.git"
   },
-  "author": "FriendCode Inc. <contact@gitbook.com>",
+  "author": "Maksim Koryukov <maxkoryukov@gmail.com>",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/GitbookIO/theme-default/issues"
@@ -36,7 +36,8 @@
     {
       "name": "Samy Pessé",
       "email": "samy@gitbook.com"
-    }
+    },
+    "FriendCode Inc. <contact@gitbook.com>"
   ],
   "gitbook": {
     "properties": {
