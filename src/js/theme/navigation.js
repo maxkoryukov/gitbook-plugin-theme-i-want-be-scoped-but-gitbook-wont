@@ -149,7 +149,7 @@ function getChapterHash($chapter) {
     if ($link.length) {
         href = $link.attr('href')
         if (href) {
-            parts = attr.split('#');
+            parts = href.split('#');
             if (parts.length>1) {
                 hash = parts[1];
             }
