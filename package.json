@@ -25,12 +25,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/GitbookIO/theme-default.git"
+    "url": "https://github.com/maxkoryukov/theme-default.git"
   },
   "author": "Maksim Koryukov <maxkoryukov@gmail.com>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/GitbookIO/theme-default/issues"
+    "url": "https://github.com/maxkoryukov/theme-default/issues"
   },
   "contributors": [
     {
