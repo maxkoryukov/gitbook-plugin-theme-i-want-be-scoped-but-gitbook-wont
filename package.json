@@ -1,5 +1,5 @@
 {
-  "name": "@maxkoryukov/gitbook-plugin-theme-default",
+  "name": "gitbook-plugin-theme-i-want-be-scoped-but-gitbook-wont",
   "description": "Default theme for GitBook (with customizations)",
   "main": "./index.js",
   "version": "1.0.6",
@@ -77,5 +77,8 @@
         "default": false
       }
     }
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
