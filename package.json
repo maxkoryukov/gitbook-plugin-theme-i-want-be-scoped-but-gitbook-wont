@@ -25,12 +25,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/maxkoryukov/theme-default.git"
+    "url": "https://github.com/maxkoryukov/gitbook-plugin-theme-i-want-be-scoped-but-gitbook-wont.git"
   },
   "author": "Maksim Koryukov <maxkoryukov@gmail.com>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/maxkoryukov/theme-default/issues"
+    "url": "https://github.com/maxkoryukov/gitbook-plugin-theme-i-want-be-scoped-but-gitbook-wont/issues"
   },
   "contributors": [
     {
